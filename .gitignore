@@ -1,0 +1,27 @@
+# Secret — NEVER commit this
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local databases
+*.db
+*.sqlite
+chroma_db/
+
+# Test cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
