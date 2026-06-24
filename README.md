@@ -139,7 +139,7 @@ pytest tests/ -v
 
 ---
 
-## Production Improvements (for interviews)
+## Production Improvements
 
 1. **Hybrid search** — combine semantic search (vector) with BM25 keyword search for better retrieval
 2. **Re-ranking** — use a cross-encoder model to re-rank retrieved chunks before generation
