@@ -1,0 +1,73 @@
+TechCorp Employee Handbook 2024
+================================
+
+COMPANY OVERVIEW
+----------------
+TechCorp was founded in 2010 by Sarah Chen and Marcus Rivera in Colombo, Sri Lanka.
+We are a B2B SaaS company serving over 200 enterprise clients worldwide.
+Our mission is to simplify HR operations through intelligent automation.
+As of 2024, we employ 500 people across 3 offices: Colombo, Singapore, and London.
+
+WORKING HOURS
+-------------
+Standard working hours are 9:00 AM to 6:00 PM, Monday through Friday.
+Flexible working arrangements can be requested from your direct manager.
+Remote work is available for all roles not requiring on-site presence.
+Core hours (when everyone must be available) are 10:00 AM to 3:00 PM.
+
+LEAVE POLICY
+------------
+Annual Leave: All full-time employees receive 21 days of paid annual leave per year.
+Leave accrues monthly at 1.75 days per month from your first day.
+Unused leave can be carried forward up to a maximum of 10 days into the next year.
+
+Sick Leave: Employees receive 14 days of paid sick leave annually.
+For sick leave exceeding 3 consecutive days, a medical certificate is required.
+
+Maternity Leave: 84 days (12 weeks) of fully paid maternity leave.
+Paternity Leave: 14 days (2 weeks) of fully paid paternity leave.
+Parental leave can begin up to 2 weeks before the expected date of birth.
+
+PERFORMANCE REVIEWS
+-------------------
+Performance reviews are conducted twice per year: in June and December.
+The review process includes self-assessment, manager assessment, and peer feedback.
+Performance is rated on a 5-point scale:
+  1 - Does Not Meet Expectations
+  2 - Partially Meets Expectations  
+  3 - Meets Expectations
+  4 - Exceeds Expectations
+  5 - Outstanding
+
+Salary increments are tied to performance ratings and are effective January 1st each year.
+Employees rated 4 or 5 are eligible for the annual bonus program.
+
+BENEFITS
+--------
+Health Insurance: Full medical, dental, and vision coverage for employee and dependents.
+Provident Fund: Company contributes 12% of basic salary to EPF.
+Training Budget: Each employee receives LKR 150,000 per year for professional development.
+Gym Allowance: LKR 5,000 per month reimbursement for gym membership.
+Meal Subsidy: Subsidized lunch available at the office cafeteria.
+
+REMOTE WORK POLICY
+------------------
+Employees may work remotely up to 3 days per week after completing 6 months of employment.
+Remote work requests must be approved by the direct manager in advance.
+Employees are responsible for maintaining a professional workspace at home.
+The company provides a one-time LKR 50,000 home office setup allowance.
+
+CODE OF CONDUCT
+---------------
+All employees must maintain professional conduct and treat colleagues with respect.
+Harassment of any kind — sexual, racial, or otherwise — is strictly prohibited.
+Violations of the code of conduct may result in disciplinary action including termination.
+Concerns should be reported to HR or through the anonymous reporting hotline: 0800-TECHCORP.
+
+IT AND SECURITY POLICY
+-----------------------
+Company devices must have full-disk encryption enabled at all times.
+Employees must use the company VPN when accessing internal systems remotely.
+Passwords must be at least 12 characters and use a password manager.
+Sharing of credentials is strictly prohibited.
+Any suspected security incidents must be reported to the IT Security team within 2 hours.
