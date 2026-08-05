@@ -138,12 +138,3 @@ pytest tests/ -v
 | **Testing** | Mocked embeddings + LLM, 11 tests |
 
 ---
-
-## Production Improvements
-
-1. **Hybrid search** — combine semantic search (vector) with BM25 keyword search for better retrieval
-2. **Re-ranking** — use a cross-encoder model to re-rank retrieved chunks before generation
-3. **Streaming responses** — stream the LLM answer token-by-token using FastAPI's StreamingResponse
-4. **Parent document retrieval** — retrieve small chunks but send larger parent chunks to LLM for more context
-5. **Multi-modal** — add image extraction from PDFs using vision models
-6. **Evaluation** — use RAGAs library to automatically evaluate retrieval quality and answer faithfulness
