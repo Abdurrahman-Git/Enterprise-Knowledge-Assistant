@@ -123,18 +123,3 @@ pytest tests/ -v
 ```
 
 ---
-
-## Skills Demonstrated
-
-| Skill | Where |
-|-------|-------|
-| **RAG Pipeline** | `rag_service.py` — retrieve → augment → generate |
-| **Embeddings** | `vector_store.py` — Google text-embedding-004 via LangChain |
-| **Vector DB** | `vector_store.py` — ChromaDB similarity search |
-| **LangChain** | Document splitters, Chroma wrapper, ChatGoogleGenerativeAI |
-| **FastAPI** | File uploads (UploadFile), async routes, dependency injection |
-| **SQL** | Two-table schema: Document metadata + QueryLog |
-| **Prompt Engineering** | Grounded RAG prompts that prevent hallucination |
-| **Testing** | Mocked embeddings + LLM, 11 tests |
-
----
