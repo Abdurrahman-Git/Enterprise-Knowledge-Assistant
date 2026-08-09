@@ -115,9 +115,6 @@ curl -X POST http://localhost:8001/api/v1/ask \
 | POST | `/api/v1/feedback/{id}` | Submit answer feedback |
 | GET | `/api/v1/analytics` | Platform analytics |
 
----
-
-## Running Tests
 ```bash
 pytest tests/ -v
 ```
