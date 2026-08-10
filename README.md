@@ -117,6 +117,4 @@ curl -X POST http://localhost:8001/api/v1/ask \
 
 ```bash
 pytest tests/ -v
-```
-
----
+``
