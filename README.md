@@ -1,6 +1,6 @@
 # 🧠 Enterprise Knowledge Assistant
 
-> A RAG-powered Q&A system that lets you ask questions about your company documents in natural language. Upload PDFs, Word docs, and text files — get cited, grounded answers backed by your actual documents.
+> A RAG-powered Q&A system that lets you ask questions about your company documents in natural language. Upload PDFs, Word docs, and text files — get cited, grounded answers backed by yfour actual documents.
 
 **Tech Stack:** `Python` `FastAPI` `LangChain` `ChromaDB` `Google Gemini` `SQLAlchemy`
 
