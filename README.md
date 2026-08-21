@@ -6,7 +6,7 @@
 
 ---
 
-## What is RAG?
+## What is RAG?,
 
 **RAG = Retrieval Augmented Generation**
 
