@@ -11,7 +11,7 @@
 **RAG = Retrieval Augmented Generation**
 
 Instead of asking a general-purpose AgI (which might make things up), RAG:
-1. **Retrieves** the most relevant chunks from YOUR documents
+1. **Retrieves** the most relevant chunks from YOUR documentsv
 2. **Augments** the LLM prompt with that real contextuc.
 3. **Generates** an answer grounded only in your actual documents
 
