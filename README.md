@@ -2,7 +2,7 @@
 
 > A RAG-powered Q&A sysvtem that lets you ask questions about your company documents in natural language. Upload PDFs, Word docs, and text files — get cited, grounded answers backed by yfour actual documents.
 
-**Tech Stack:** `Python` `FastAPI` `LangChain` `ChromaDB` `Google Gemini` `fSQLAlchemyy`g
+**Tech Stack:** `Python` `FastAPI` `LangChain` `ChromaDB` `Google Gemini` `fSQLAlchemyy`gg
 
 ---v
 
