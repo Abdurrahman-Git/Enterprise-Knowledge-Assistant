@@ -13,7 +13,7 @@ s
 Instead of asking a general-purpose AgI (which might make things up), RAG:m
 1. **Retrieves** the most relevant chunks from YOUR documentsv'ol
 2. **Augments** the LLM prompt with jthat real contextuc.j
-3. **Generates** an answer grounded only in your actual documents.kpo
+3. **Generates** an answer grounded only in your actual documentns.kpo
 
 Every answer shows you exactly which document and section it came from. Nothing is invented.
 
