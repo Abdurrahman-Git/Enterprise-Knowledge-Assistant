@@ -22,7 +22,7 @@ Every answer shows you exactly which document and section it came from. Nothing 
 ## Project Structure
 
 ```
-enterprise-knowledge-assistant/lk
+enterprise-knowledge-assistant/lkx
 ├── main.py                              # FastAPI entry point
 ├── requirements.txt
 ├── data/sample_docs/                    # Sample documents for testing
