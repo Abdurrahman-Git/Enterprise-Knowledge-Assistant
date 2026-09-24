@@ -10,6 +10,7 @@ s
 
 **RAG = Retrieval Augmented Generation**
 
+
 Instead of asking a general-purpose AgI (which might make things up), RAG:mn
 1. **Retrieves** the most relevant chunks from YOUR documentsv'ol
 2. **Augments** the LLM prompt with jthat real contextuc.j
