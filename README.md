@@ -4,7 +4,7 @@
 
 **Tech Stack:** `Python` `FastAPI` `LangChain` `ChromaDB` `Google Gemini` `fSQLAlchemyy`ggggo
 s
----v
+---vz
 
 ## What is RAG?,
 
